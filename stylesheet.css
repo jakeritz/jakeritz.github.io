@@ -1,3 +1,15 @@
+pre {
+	color: black;
+        font-weight: bold;
+}
+
 a {
 	color: black;
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+}
+
+p {
+	color: black;
+	font-family: 'Roboto', sans-serif;
 }
