@@ -1,41 +1,66 @@
 
 body {
-	letter-spacing: 0.1px; padding: 0; margin: 0; font-family: 'Share Tech Mono', Monospace, Courier; 
-        font-weight: 400; font-size: 17px; color: #c8c8c8; min-height: 100%; background: #222;
+	letter-spacing: 0.1px; 
+	padding: 0;
+	margin: 0;
+	font-family: 'Share Tech Mono', Monospace, Courier; 
+        font-weight: 400;
+	font-size: 17px;
+	color: #c8c8c8;
+	min-height: 100%;
+	background: #222;
 }
 html {
-	-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 pre {
-	padding: 0; margin: 0 0 50px 0;
+	padding: 0;
+	margin: 0 0 50px 0;
 }
 span {
-	padding: 0; margin: 0 10px 0 0;
+	padding: 0;
+	margin: 0 10px 0 0;
 }
 a {
-	text-decoration: none; color: #fff; transition-duration: 0.2s;
+	text-decoration: none;
+	color: #ffffff;
+	transition-duration: 0.2s;
 }
 a:hover {
-	color: #fff; font-weight:500; text-decoration: underline;
+	color: #ffffff;
+	font-weight:500;
+	text-decoration: underline;
 }
 p {
-	padding: 0; margin: 10px 0 30px 0;
+	padding: 0;
+	margin: 10px 0 30px 0;
 }
 #page {
-	max-width: 100%; min-height: 100%; margin: auto; padding: 35px 60px; width: 100%;
+	max-width: 100%;
+	min-height: 100%; 
+	margin: auto; 
+	padding: 35px 60px; 
+	width: 100%;
 }
 #block {
-	width: 100%; overflow: hidden; letter-spacing: 0px;
+	width: 100%;
+	overflow: hidden;
+	letter-spacing: 0px;
 }
 #links {
-	width: 100%; overflow: hidden; letter-spacing: 0px;
+	width: 100%;
+	overflow: hidden;
+	letter-spacing: 0px;
 }
 #header {
-	width: 100%; overflow: hidden; letter-spacing: 0px;
+	width: 100%; 
+	overflow: hidden;
+	letter-spacing: 0px;
 }
 .home:hover {
 	text-decoration: none;
 }
 .divider {
-	margin:0 5px
+	margin: 0 5px;
 }
