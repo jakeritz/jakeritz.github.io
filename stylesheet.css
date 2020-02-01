@@ -3,7 +3,7 @@ body {
 	letter-spacing: 0.1px; 
 	padding: 0;
 	margin: 0;
-	font-family: 'Share Tech Mono', Monospace, Courier; 
+	font-family: 'IBM Plex Mono', monospace;
         font-weight: 400;
 	font-size: 17px;
 	color: #c8c8c8;
@@ -43,22 +43,17 @@ p {
 	padding: 35px 60px; 
 	width: 100%;
 }
-#block {
-	width: 100%;
-	overflow: hidden;
-	letter-spacing: 0px;
-}
-#links {
-	width: 100%;
-	overflow: hidden;
-	letter-spacing: 0px;
-}
-#header {
+#logospace {
 	width: 100%; 
 	overflow: hidden;
 	letter-spacing: 0px;
 }
-.home:hover {
+#navbar {
+	width: 100%;
+	overflow: hidden;
+	letter-spacing: 0px;
+}
+.logo:hover {
 	text-decoration: none;
 }
 .divider {
