@@ -7,7 +7,7 @@ body {
         font-weight: 400;
 	font-size: 17px;
 	color: #c8c8c8;
-	letter-spacing: 0.1px; 
+	letter-spacing: 0px; 
 	margin: 0; 
 	padding: 35px 60px; 
 	width: 100%;
@@ -40,12 +40,10 @@ p {
 #logo {
 	width: 100%; 
 	overflow: hidden;
-	letter-spacing: 0px;
 }
 #navbar {
 	width: 100%;
 	overflow: hidden;
-	letter-spacing: 0px;
 }
 .divider {
 	margin: 0 5px;
