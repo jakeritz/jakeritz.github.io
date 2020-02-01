@@ -1,12 +1,14 @@
-
+// Ope, this is some terrible CSS
 body {
-	letter-spacing: 0.1px; 
-	padding: 0;
-	margin: 0;
 	font-family: 'IBM Plex Mono', monospace;
         font-weight: 400;
 	font-size: 17px;
 	color: #c8c8c8;
+	letter-spacing: 0.1px; 
+	margin: auto; 
+	padding: 35px 60px; 
+	width: 100%;
+	max-width: 100%;
 	min-height: 100%;
 	background: #191919;
 }
@@ -35,13 +37,6 @@ a:hover {
 p {
 	padding: 0;
 	margin: 10px 0 30px 0;
-}
-#page {
-	max-width: 100%;
-	min-height: 100%; 
-	margin: auto; 
-	padding: 35px 60px; 
-	width: 100%;
 }
 #logospace {
 	width: 100%; 
