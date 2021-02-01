@@ -1,0 +1,101 @@
+.offender-details h1 {font-family: 'open_sanslight';font-size:24px; line-height: 25px; margin-bottom:20px;}
+.offender-details h1 strong{font-weight: normal;}
+
+/*.offender-details h2 {font-family: 'open_sansregular';font-size:14px; margin-bottom:35px;}*/
+.offender-details h2.subtitle  {font-family: 'open_sanssemibold'; font-size: 20px; line-height: 20px; margin-bottom: 3px;}
+.offender-details h2.subtitle strong{font-weight: normal;}
+dl.offender-address {margin:0px 0px 21px 0px; font-weight: normal}
+dl.offender-address h2{font-family: 'open_sansregular';font-size:14px; line-height: 15px;}
+dl.offender-address h2 dt{display:inline; float:left; padding-right: 3px; font-weight: normal; line-height: inherit;}
+dl.offender-address h2 dd{margin:0px; font-weight:normal;  line-height: inherit;}
+.offender-details .offender_image {border: 1px solid #000000;}
+.offender-details .offender_image img{/*width:280px;height:295px;border:1px solid #c9d0d8;*/text-align:center; padding: 2px; /*height: 300px;*/ }
+
+
+#offender_section1_details dl { margin-top: 0px; float:left;}
+#offender_section1_details dl dt{ width: 60px;  float:left; height:20px; clear:both; font-weight: normal;}
+#offender_section1_details dl dd{ margin:0px 0px 20px; float:left; }
+
+.offender-name {clear:both;}
+.offender-name h2 {font-family: 'open_sanssemibold'; font-size: 12px; line-height: 14px; padding: 10px 0px; }
+.criminal_button { text-align: center;}
+.offender_records { display: inline-block; width: 202px; height: 32px; text-indent: -99999px; background: url('../../images/v2/view_criminal_record_button.png'); }
+.offender_records:hover { background: url('../../images/v2/view_criminal_record_button_hover.png');}
+#offender_section2 {padding-top: 30px; padding-bottom: 15px;}
+h3.offense  { font-family: 'open_sanssemibold'; font-size: 18px; line-height: 20px; padding-bottom: 10px;}
+h2.offense  { font-family: 'open_sanssemibold'; font-size: 20px; line-height: 22px; padding-bottom: 10px;}
+#offender_section2 dl { margin: 0px 0px 10px; float:left;}
+#offender_section2 dl dt{ width: 110px;  float:left; height:30px; clear:both; font-weight: normal;}
+#offender_section2 dl dd{ margin:0px; float:left; width: 340px; font-weight:normal;}
+.aliases { float: none !important; margin: 15px 0px !important;}
+.aliases h3 {font-family: 'open_sansbold'; font-size: 18px; line-height: 20px;}
+.aliases h2 {font-family: 'open_sanssemibold'; font-size: 20px; line-height: 22px;}
+.scars h2 {font-family: 'open_sanssemibold'; font-size: 20px; line-height: 22px;}
+a.arrest-records {margin: 10px 0px; text-decoration: underline;}
+
+.disclaimer{}
+.disclaimer label {font-family: 'open_sanssemibold'; font-size: 12px; margin-bottom: 0px;}
+.disclaimer p {margin: 10px 0px 5px; text-align: justify;}
+
+.related_links {margin: 0px 0px 20px;}
+.related_links h4{ font-family: 'open_sanssemibold'; font-size: 14px;}
+.related_links h3{ font-family: 'open_sanssemibold'; font-size: 18px;}
+.related_links ul li{ list-style: none; margin: 5px 0px;}
+
+.offender-map-section h2 { font-family: 'open_sansregular'; font-size: 18px; line-height: 18px; margin-bottom: 10px;}
+.near-by-offenders {margin: 20px 0px 0px;}
+.near-by-offenders h2 {font-family: 'open_sanssemibold'; font-size: 18px; line-height: 20px;}
+.near-by-offenders h2 small{font-family: 'open_sansregular'; font-size: 13px;}
+.near-by-offenders h2 span.viewOnMap{font-size:13px;color:#00aeef;font-family: 'open_sansregular';}
+.near-by-offenders h2 span.viewOnMap span{color: #b7b7b7; margin: 0 5px 0 0;}
+.near-by-offenders h3 {font-family: 'open_sanssemibold'; font-size: 18px; line-height: 20px;}
+.near-by-offenders h3 small{font-family: 'open_sansregular'; font-size: 13px;}
+.near-by-offenders h3 span.viewOnMap{font-size:13px;color:#00aeef;font-family: 'open_sansregular';}
+.near-by-offenders h3 span.viewOnMap span{color: #b7b7b7; margin: 0 5px 0 0;}
+.near-by-offenders ul li{list-style:none;float:left;font-size:13px;line-height:16px;font-family: 'open_sansregular';border-bottom:dashed 1px #898989;padding:15px 10px; width: 100%}
+.near-by-offenders ul li h2 {line-height: 14px;}
+.near-by-offenders ul li.native .title {line-height: 14px;}
+.near-by-offenders ul li a{font-size:13px;line-height:16px;font-family: 'open_sanssemibold';}
+.near-by-offenders ul li figure{float:left;margin-right:10px;}
+.near-by-offenders ul li figure img{height: 40px; width: 42px;}
+.near-by-offenders ul li figure img.aff_img{ height:inherit;width: inherit; }
+.near-by-offenders .advert-offender{background-color: #eeeeee;}
+
+.nearby-schools h3 {font-family: 'open_sanssemibold'; font-size: 18px;}
+.nearby-schools h3 small{font-family: 'open_sansregular'; font-size: 13px;}
+.nearby-schools h2 {font-family: 'open_sanssemibold'; font-size: 18px;}
+.nearby-schools h2 small{font-family: 'open_sansregular'; font-size: 13px;}
+
+.nearby-schools h5{font-size:13px;color:#5e5e5e;text-transform:uppercase;font-family: 'open_sanssemibold';padding:10px 0px;}
+.nearby-schools article{font-size:13px;color:#5e5e5e;}
+.nearby-schools ul{float:left;width:100%;}
+.nearby-schools ul li{list-style:none;line-height:30px;font-family: 'open_sanssemibold';font-size:13px;border-bottom:dashed 1px #898989;float:left;width:100%;padding:8px 0px;}
+.nearby-schools ul li.heading{font-size:13px;color:#5e5e5e;text-transform:uppercase;font-family: 'open_sanssemibold';border:none;line-height:18px;padding-bottom:0px;}
+.nearby-schools ul li span.pull-left{width:85%;}
+.nearby-schools ul li span.pull-right{width:15%;text-align:center;}
+.nearby-schools ul li span.pull-right img{width:30px;height:30px;text-align:center;}
+.copyright{height:auto;}
+/********* RESPONSIVE CSS ***********/
+
+@media only screen and (min-width:768px) and (max-width:999px){
+    .near-by-offenders ul li{ width: 48%}
+    .near-by-offenders ul li:nth-child(2n){float:right;}
+    .near-by-offenders ul li p {min-height: 30px;}
+    #myMap{width:100% !important;height:475px!important;}
+    .MicrosoftMap{width:100% !important;height:475px!important;}
+}
+
+@media only screen and (min-width:320px) and (max-width:767px){
+    .offender-details .offender-spec {margin-top: 20px;}
+    .offender-details .offender-spec h2 { margin-bottom: 5px;}
+    
+    #offender_section1_details dl dd{ margin:0px }
+    #offender_section2 {padding-top: 10px;}
+    #offender_section2 dl dt { height: auto;}
+    #offender_section2 dl dd { margin-bottom: 10px;}
+    
+    .nearby-schools ul li{line-height:18px;font-family: 'open_sansregular';}
+    .nearby-schools ul li a{display:block;}
+    #myMap{width:100% !important;height:200px!important;}
+    .MicrosoftMap{width:100% !important;height:200px!important;}
+}
